@@ -1,0 +1,11 @@
+﻿From: PayPal Support <alert@paypa1.com>
+To: user@company.com
+Subject: Urgent: Account Verification Required
+Date: Fri, 03 Jan 2026 22:05:41 -0600
+Message-ID: <d82k9sd@mail.paypa1.com>
+
+Received: from unknown (185.203.116.23)
+Authentication-Results:
+    spf=fail (domain paypa1.com does not authorize sending IP)
+    dkim=none
+    dmarc=fail
