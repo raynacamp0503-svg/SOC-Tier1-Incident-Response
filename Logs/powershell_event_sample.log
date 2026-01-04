@@ -1,0 +1,11 @@
+﻿EventID: 4104
+TimeCreated: 2026-01-03 21:48:12
+User: CORP\\jdoe
+Host: WORKSTATION-22
+CommandLine: powershell.exe -nop -w hidden -enc SQBmACgAJABlAG4AdgA6AFUAcwBlAHIAcAByAG8AZgBpAGwAZQApAA==
+
+EventID: 4104
+TimeCreated: 2026-01-03 21:48:18
+User: CORP\\jdoe
+Host: WORKSTATION-22
+CommandLine: powershell.exe -ExecutionPolicy Bypass -NoProfile
